@@ -6,6 +6,7 @@ namespace Snake
     {
         static void Main(string[] args)
         {          
+
             Point p1 = new Point(1, 3, '*');
             p1.Drow();
 
